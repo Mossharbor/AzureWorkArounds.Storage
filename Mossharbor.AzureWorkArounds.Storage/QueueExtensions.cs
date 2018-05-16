@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Mosshaarbor.AzureWorkArounds.Storage
+namespace Mossharbor.AzureWorkArounds.Storage
 {
     public static class QueueExtensions
     {
