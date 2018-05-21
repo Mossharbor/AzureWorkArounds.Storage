@@ -9,7 +9,7 @@ CloudPageBlob blob = (CloudPageBlob)blobItem;
 blob.Delete();
 ```
 
-you can see a discussion of the issue [here](https://github.com/Azure/azure-service-bus-dotnet/issues/65)
+you can see a discussion of the issue [here](https://github.com/Azure/azure-storage-net/issues/367)
 
 Install the nuget package:  [Install-Package Mossharbor.AzureWorkArounds.Storage -Version 1.0.1](https://www.nuget.org/packages/Mossharbor.AzureWorkArounds.Storage/1.0.1#)
 
